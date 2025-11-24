@@ -1,0 +1,30 @@
+[submodule "HW-01"]
+	path = HW-01
+	url = git@github.com:shivamhingorani/Brown-MachineLearning-HW01.git
+[submodule "HW-02"]
+	path = HW-02
+	url = git@github.com:shivamhingorani/Brown-MachineLearning-HW02.git
+[submodule "HW-03"]
+	path = HW-03
+	url = git@github.com:shivamhingorani/Brown-MachineLearning-HW03.git
+[submodule "HW-04"]
+	path = HW-04
+	url = git@github.com:shivamhingorani/Brown-MachineLearning-HW04.git
+[submodule "HW-05"]
+	path = HW-05
+	url = git@github.com:shivamhingorani/Brown-MachineLearning-HW05.git
+[submodule "HW-06"]
+	path = HW-06
+	url = git@github.com:shivamhingorani/Brown-MachineLearning-HW06.git
+[submodule "HW-07"]
+	path = HW-07
+	url = git@github.com:shivamhingorani/Brown-MachineLearning-HW07.git
+[submodule "HW-08"]
+	path = HW-08
+	url = git@github.com:shivamhingorani/Brown-MachineLearning-HW08.git
+[submodule "HW-09"]
+	path = HW-09
+	url = git@github.com:shivamhingorani/Brown-MachineLearning-HW09.git
+[submodule "Final Project"]
+	path = Final Project
+	url = git@github.com:shivamhingorani/Brown-MachineLearning-FinalProject.git
